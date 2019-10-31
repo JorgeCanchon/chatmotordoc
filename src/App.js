@@ -18,6 +18,7 @@ function App() {
         >
           Learn React
         </a>
+        <b>Initial</b>  
       </header>
     </div>
   );
